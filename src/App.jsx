@@ -3,7 +3,7 @@ import HomePage from "./pages/HomePage"
 import AboutPage from "./pages/AboutPage"
 import LoginPage from "./pages/LoginPage"
 import MainHeader from "./MainHeader"
-import Footer from "./footer"
+import Footer from "./Footer"
 import AirConditioning from "./pages/AirConditioning"
 
 const App = () => {
